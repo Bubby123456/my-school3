@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    scroll-behavior: auto;
+}
+
+#brooklynimg {
+    cursor: pointer;
+    
+}
+
+#acheivements {
+    margin-top: 900px;
+}
+
+#contact img {
+    margin-left: 1000px;
+    
+}
+
+#vv {
+    margin-left:900px; 
+}
+
+#facebook {
+    background-image: url(facebook%20logo.png)
+}
+
+#instagram {
+    background-image: url(insta.png)
+}
